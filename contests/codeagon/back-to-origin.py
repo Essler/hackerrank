@@ -1,7 +1,5 @@
 #!/bin/python3
 
-import sys
-
 xTreasure,yTreasure = input().strip().split(' ')
 xTreasure,yTreasure = [int(xTreasure),int(yTreasure)]
 n = int(input().strip())
